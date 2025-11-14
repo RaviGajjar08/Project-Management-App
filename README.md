@@ -36,5 +36,4 @@ Manage projects, tasks, and workflows efficiently with a responsive, modern inte
 
 ---
 
-## 📂 Folder Structure
 
